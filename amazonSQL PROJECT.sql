@@ -1,6 +1,6 @@
 -- Kaggle dataset this information was pulled from https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset/data
 
--- Checking import status: the original dataset had 100,000 rows but only 50,722 rows were imported. 
+-- Checking import status
 
 SELECT *
 FROM amazon_sales_data_project;
